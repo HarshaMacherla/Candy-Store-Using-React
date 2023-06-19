@@ -1,0 +1,27 @@
+.list-items {
+  list-style-type: none;
+}
+
+.payment {
+  text-align: right;
+}
+
+.amount {
+  font-weight: normal;
+}
+
+.total {
+  margin-right: 10px;
+}
+
+.payment button {
+  padding: 7px 21px;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.name {
+  font-size: large;
+  font-weight: bold;
+}

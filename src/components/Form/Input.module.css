@@ -1,0 +1,11 @@
+.input {
+  display: inline-block;
+}
+
+.input label {
+  margin-right: 2px;
+}
+
+.input input {
+  margin-right: 5px;
+}
